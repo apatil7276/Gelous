@@ -1,0 +1,38 @@
+.pr-4 {
+  padding-right: 1rem;
+}
+.bg-opacity-60 {
+  --tw-bg-opacity: 0.6;
+}
+.bg-\[\#515151\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(81 81 81/var(--tw-bg-opacity));
+}
+.border-\[\#595959\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(89 89 89/var(--tw-border-opacity));
+}
+.border-solid {
+  border-style: solid;
+}
+.border-\[1px\] {
+  border-width: 1px;
+}
+.rounded-\[40px\] {
+  border-radius: 40px;
+}
+.items-center {
+  align-items: center;
+}
+.max-w-\[233px\] {
+  max-width: 233px;
+}
+.w-full {
+  width: 100%;
+}
+/* .hidden {
+  display: none;
+} */
+.relative {
+  position: relative;
+}
